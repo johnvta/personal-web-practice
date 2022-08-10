@@ -31,7 +31,7 @@ body {
   
   .menu {
     width: 80%;
-    background-image: linear-gradient(PURPLE, BLUE);
+    background: linear-gradient(PURPLE, BLUE);
     border: solid;
     margin-left: auto;
     margin-right: auto;
@@ -77,10 +77,11 @@ body {
     width: 25%;
   }
 
-  ol {
-    list-style-image: url(black)
+  ul , li {
+    list-style-image: url(black);
+    background: white;
   }
-  
+
   .flexbox {
     display: flex;
     justify-content: center;
