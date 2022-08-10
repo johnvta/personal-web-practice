@@ -1,0 +1,123 @@
+body {
+    background-image: url(https://images.template.net/75781/Free-Purple-aesthetic-iphone-background-01-1.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+
+  h5 {
+    font-size: 25px;
+    margin-top: 0;
+  }
+  
+  .school {
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 65px;
+  }
+  
+  h1, h2, h5, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-image: linear-gradient(PURPLE, BLUE);
+    border: solid;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+  }
+  
+  hr {
+    height: 2px;
+    background-color: darkgrey;
+    border-color: darkgrey;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 , h5 {
+    font-family: Impact, serif, serif;
+  }
+  
+  .lesson p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .project {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .language {
+    text-align: right;
+    width: 25%;
+  }
+
+  ol {
+    list-style-image: url(black)
+  }
+  
+  .flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .flexbox > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  .address {
+    margin-bottom: 15px;
+
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: purple;
+  }
+  
+  a:active {
+    color: purple;
+  }
